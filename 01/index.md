@@ -8,7 +8,9 @@
 
 - [自己紹介と授業の進め方](whoami/)
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Lrriv4AAKW0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/148jfo8JMC0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## 今日の内容
 
