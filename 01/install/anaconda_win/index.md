@@ -24,8 +24,7 @@ Anaconda をインストールするためのファイル（インストーラ�
 ↓ こちらのページを開きましょう。
 **[https://www.anaconda.com/products/individual](https://www.google.com/url?q=https://www.anaconda.com/products/individual&sa=D&ust=1599450832459000&usg=AOvVaw1dcpi8kcj4RMKCaPbnxaYk)**
 
-
-下の方まで画面をスクロールするとダウンロードボタンが並んでいます。Windows 用の Python 3.8  のうち、**先ほどチェックしたビット数のものをダウンロードします**。
+下の方まで画面をスクロールするとダウンロードボタンが並んでいます。Windows 用 のうち、**先ほどチェックしたビット数のものをダウンロードします**。
 この際、かなりの容量をダウンロードするため、通信料やハードディスクの残り容量には気を付けてください。
 
 ![img](assets/image6.png)

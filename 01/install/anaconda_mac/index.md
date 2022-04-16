@@ -8,8 +8,7 @@ Anaconda をインストールするためのファイル（インストーラ�
 ↓ こちらのページを開きましょう。
 **[https://www.anaconda.com/products/individual](https://www.google.com/url?q=https://www.anaconda.com/products/individual&sa=D&ust=1599674854553000&usg=AOvVaw2kk1sZ9WfmyqVmYTO4TH0F)**
 
-
-下の方まで画面をスクロールするとダウンロードボタンが並んでいます。MacOS 用の Python 3.8  のうち、Graphical Installer の方をダウンロードします。
+下の方まで画面をスクロールするとダウンロードボタンが並んでいます。MacOS 用のうち、Graphical Installer の方をダウンロードします。
 この際、かなりの容量をダウンロードするため、通信料やハードディスクの残り容量には気を付けてください。
 ![img](assets/image20.png)
 
