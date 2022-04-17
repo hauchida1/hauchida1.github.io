@@ -121,12 +121,14 @@ Anaconda のインストールが無事に終了したら、早速 Spyder を立
 
 
 
-
 しばらくすると Anaconda-Navigator が立ち上がります。
 Anaconda-Navigator が起動する際に以下のような表示が出た場合は「OK, and don’t show again」をクリックしておきましょう。
 ![img](assets/image1.png)
 
 
+
+以下のような、Anaconda Navigatorをアップデートできますというメッセージが表示された場合は、ひとまずNo（もしくは、No, Don't show again）でアップデートしないでおいてください。
+![anaconda navi update](assets/anaconda navi update.jpeg)
 
 
 

@@ -109,6 +109,9 @@ Anaconda-Navigator が起動する際に以下のような表示が出た場合�
 
 
 
+以下のような、Anaconda Navigatorをアップデートできますというメッセージが表示された場合は、ひとまずNo（もしくは、No, Don't show again）でアップデートしないでおいてください。
+![anaconda navi update](assets/anaconda navi update.jpeg)
+
 
 
 続いて Spyder を立ち上げます。
