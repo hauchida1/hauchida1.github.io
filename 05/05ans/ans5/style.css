@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* User settings */
+.md-text, ul {
+	font-size:16px;
+}
+.md-inpage-anchor {
+	padding-top:1.5em;
+}
