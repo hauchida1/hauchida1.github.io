@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* User settings */
+.md-text, ul {
+	font-size:16px;
+}
+.md-inpage-anchor {
+	padding-top:1.5em;
+}
+ol li{
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+}
+/* ƒƒ‚ ul li:not(.nav, .navbar-nav, .list-group)  list-style :Œ©‰h‚¦‚Ìw’è;*/
