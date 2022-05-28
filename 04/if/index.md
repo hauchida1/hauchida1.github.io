@@ -500,9 +500,9 @@ print("BMI値は", bmi, "です。")
 
 if bmi < 18.5:
     print("痩せです。")
-if 18.5 <= bmi and bmi < 25:
+elif 18.5 <= bmi and bmi < 25:
     print("普通です。")
-if 25 <= bmi:
+elif 25 <= bmi:
     print("肥満です。")
 ```
 
@@ -539,9 +539,9 @@ print("BMI値は", bmi, "です。")
 
 if bmi < 18.5:                          # もしbmiが18.5未満ならば…
     print("痩せです。")
-if 18.5 <= bmi and bmi < 25:            # bmi が18.5以上 かつ 25未満ならば…
+elif 18.5 <= bmi and bmi < 25:            # bmi が18.5以上 かつ 25未満ならば…
     print("普通です。")
-if 25 <= bmi:                           # bmiが25以上ならば…
+elif 25 <= bmi:                           # bmiが25以上ならば…
     print("肥満です。")
 ```
 
